@@ -1,0 +1,6 @@
+# This is the version of Webrat in the gemfile:
+webrat -v 0.7.1
+
+# Now its changed to 1.3.7
+
+script/rails generate rspec:install
